@@ -1,2 +1,2 @@
-几天真是不好过
-然而确实需要做出一些改变，尤其是真的有必要维持这样一种状态吗？
+let me use english instead;
+otherwise the git cannot read it.
